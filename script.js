@@ -1,7 +1,3 @@
-// const div = document.querySelectorAll('div');
+// const re = '12.2px';
 
-// const arr = ['red', 'blue', 'green', 'pink', 'black', 'gray'];
-
-// for (let i = 0; i < div.length; i++) {
-//   div[i].style.backgroundColor = `${arr[i]}`;
-// }
+// console.log(parseFloat(re));
